@@ -17,7 +17,7 @@ The purpose of this analysis is to develop a model that can predict the successf
 - **What steps did you take in your attempts to increase model performance?** The steps taken to attempt to increase model performance were:
   - Increase number of hidden layers from 2 to 3.
   - Increase number of neurons per layer.
-  - Increase number of epochs.
+  - Increase number of epochs from 20 to 100.
 
 ## Summary:
 Overall, the the performance accuracy of the optimisation model stayed roughly the same from the original model despite implementing the optimisation methods. A different model could be used to solve the same problem, such as one that contains more hyperparameters and therefore the model can be tuned to improve performance. Another model could also be less prone to overfitting, and therefore also improve performance of the model to better predict the successfulness of organisations if provided with funding.
